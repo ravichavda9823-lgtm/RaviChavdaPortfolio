@@ -30,7 +30,7 @@ function Home() {
             <a href="https://github.com/" target="_blank">
               <span className="fa  fa-github" />
             </a>
-            
+
             <a href="tel:+917046749636" target="_blank">
               <button>CONTACT ME</button>
             </a>
@@ -156,11 +156,18 @@ function Home() {
               <a href="https://occazone.onrender.com" target="_blank">
                 LIVE DEMO <span className="fa fa-location-arrow"></span>
               </a>
+
+              <a
+                href="https://docs.google.com/document/d/1LavZrB98XnRNHbl5n7KNzyYICSmrEr107YfjcWRxR3Q/edit?usp=sharing"
+                target="_blank"
+              >
+                VIEW DOC <span className="fa fa-file-text"></span>
+              </a>
+
               <a
                 href="https://github.com/ravichavda9823-lgtm/approx"
                 target="_blank"
               >
-                {" "}
                 SEE ON GITHUB <span className="fa fa-github"></span>
               </a>
             </div>
@@ -216,14 +223,21 @@ function Home() {
             </div>
 
             <div className="ancore d-flex">
-              <a href="https://konicha.onrender.com/" target="_blank">
+              <a href="https://occazone.onrender.com" target="_blank">
                 LIVE DEMO <span className="fa fa-location-arrow"></span>
               </a>
+
               <a
-                href="https://github.com/ravichavda9823-lgtm/Konicha"
+                href="https://docs.google.com/document/d/1dN-YORMF8-BZMSCo3MhtcoGO9A-z12iPA0-lBdsLT-4/edit?usp=sharing"
                 target="_blank"
               >
-                {" "}
+                VIEW DOC <span className="fa fa-file-text"></span>
+              </a>
+
+              <a
+                href="https://github.com/ravichavda9823-lgtm/approx"
+                target="_blank"
+              >
                 SEE ON GITHUB <span className="fa fa-github"></span>
               </a>
             </div>
@@ -267,6 +281,13 @@ function Home() {
             <div className="ancore d-flex">
               <a href="https://animenova.onrender.com/" target="_blank">
                 LIVE DEMO <span className="fa fa-location-arrow"></span>
+              </a>
+
+              <a
+                href="https://docs.google.com/document/d/1huexA6uqf1lCNPcSUtJvofsyB31iKSDd466MXMRg140/edit?usp=sharing"
+                target="_blank"
+              >
+                VIEW DOC <span className="fa fa-file-text"></span>
               </a>
               <a
                 href="https://github.com/ravichavda9823-lgtm/AnimeNova"
@@ -328,6 +349,13 @@ function Home() {
             <div className="ancore d-flex">
               <a href="https://dailyexercise-84dh.onrender.com" target="_blank">
                 LIVE DEMO <span className="fa fa-location-arrow"></span>
+              </a>
+
+              <a
+                href="https://docs.google.com/document/d/1aXKS7EaQcvCiOZ8t6ASutIyvkP0Aa00eBnqC5eCfK24/edit?usp=sharing"
+                target="_blank"
+              >
+                VIEW DOC <span className="fa fa-file-text"></span>
               </a>
               <a
                 href="https://github.com/ravichavda9823-lgtm/DailyExercise"
