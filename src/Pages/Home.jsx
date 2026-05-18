@@ -121,6 +121,13 @@ function Home() {
           </p>
         </div>
         <div className="projects d-flex project-reverse ">
+          <div className="projects-images">
+            <div className="color">
+              <a href="https://occazone.onrender.com" target="_blank">
+                <img src="/images/occazone.png" alt="" />
+              </a>
+            </div>
+          </div>
           <div className="projects-content ">
             <h2>OCCAZONE VENUE PLATFORM</h2>
             <p>
@@ -172,10 +179,65 @@ function Home() {
               </a>
             </div>
           </div>
+        </div>
+      </section>
+
+      <section className="Project1-sec max-width ">
+        <div className="projects d-flex project-reverse">
+          <div className="projects-content">
+            <h2>ARTX EVENT PLATFORM </h2>
+            <p>
+              The ArtXibition Event Management Platform is a modern web-based
+              application developed using the MERN stack to automate and
+              streamline event and exhibition management operations. The
+              platform provides a centralized digital interface where users can
+              browse upcoming events and exhibitions, search events by
+              categories, view detailed event information, and place online
+              bookings for selected programs and schedules.
+            </p>
+
+            <h5>PROJECT INFO</h5>
+            <div className="project-hr">
+              <hr />
+            </div>
+            <div className="years d-flex">
+              <h5>year</h5>
+              <h6>2025</h6>
+            </div>
+            <div className="project-hr">
+              <hr />
+            </div>
+            <div className="role d-flex">
+              <h5>Role</h5>
+              <h6>Mern Project</h6>
+            </div>
+            <div className="project-hr">
+              <hr />
+            </div>
+
+            <div className="ancore d-flex">
+              <a href="https://xibition.onrender.com/" target="_blank">
+                LIVE DEMO <span className="fa fa-location-arrow"></span>
+              </a>
+              <a
+                href="https://docs.google.com/document/d/1thQgauw2jT1GD5LCaYmhgKn0nu0Z6RA1kTe422xyMQs/edit?usp=sharing"
+                target="_blank"
+              >
+                VIEW DOC <span className="fa fa-file-text"></span>
+              </a>
+              <a
+                href="https://github.com/ravichavda9823-lgtm/DailyNews"
+                target="_blank"
+              >
+                {" "}
+                SEE ON GITHUB <span className="fa fa-github"></span>
+              </a>
+            </div>
+          </div>
           <div className="projects-images">
             <div className="color">
-              <a href="https://occazone.onrender.com" target="_blank">
-                <img src="/images/occazone.png" alt="" />
+              <a href="https://xibition.onrender.com/" target="_blank">
+                <img src="/images\aetxibition.jpeg" alt="" />
               </a>
             </div>
           </div>
@@ -363,61 +425,6 @@ function Home() {
               >
                 {" "}
                 SEE ON GITHUB <span className="fa fa-github"></span>
-              </a>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section className="Project1-sec max-width ">
-        <div className="projects d-flex project-reverse">
-          <div className="projects-content">
-            <h2>TODAY DAILY NEWS </h2>
-            <p>
-              This project focuses on analyzing a major recent news event and
-              understanding its impact on society. It explains the background of
-              the incident, the key facts reported by news agencies, and the
-              response from authorities. The project also studies public
-              reactions and how the event influences social, political, or
-              environmental conditions.
-            </p>
-
-            <h5>PROJECT INFO</h5>
-            <div className="project-hr">
-              <hr />
-            </div>
-            <div className="years d-flex">
-              <h5>year</h5>
-              <h6>2025</h6>
-            </div>
-            <div className="project-hr">
-              <hr />
-            </div>
-            <div className="role d-flex">
-              <h5>Role</h5>
-              <h6>React Project</h6>
-            </div>
-            <div className="project-hr">
-              <hr />
-            </div>
-
-            <div className="ancore d-flex">
-              <a href="https://dailynews-z3q3.onrender.com/" target="_blank">
-                LIVE DEMO <span className="fa fa-location-arrow"></span>
-              </a>
-              <a
-                href="https://github.com/ravichavda9823-lgtm/DailyNews"
-                target="_blank"
-              >
-                {" "}
-                SEE ON GITHUB <span className="fa fa-github"></span>
-              </a>
-            </div>
-          </div>
-          <div className="projects-images">
-            <div className="color">
-              <a href="https://todaynews-f3rt.onrender.com/" target="_blank">
-                <img src="/images/News.jpg" alt="" />
               </a>
             </div>
           </div>
