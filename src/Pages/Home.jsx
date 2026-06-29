@@ -285,7 +285,7 @@ function Home() {
             </div>
 
             <div className="ancore d-flex">
-              <a href="https://occazone.onrender.com" target="_blank">
+              <a href="https://konicha.onrender.com/" target="_blank">
                 LIVE DEMO <span className="fa fa-location-arrow"></span>
               </a>
 
