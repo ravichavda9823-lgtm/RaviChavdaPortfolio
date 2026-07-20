@@ -120,7 +120,7 @@ function Home() {
             <br /> Full Stack development.
           </p>
         </div>
-        <div className="projects d-flex project-reverse">
+        <div className="projects d-flex">
           <div className="projects-images">
             <div className="color">
               <a href="https://occazone.onrender.com" target="_blank">
